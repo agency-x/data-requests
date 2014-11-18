@@ -1,4 +1,4 @@
 data-requests
 =============
 
-A public means by which anyone can request new datasets
+Please request new datasets from Agency X in the [Issue Tracker](https://github.com/agency-x/data-requests/issues).  
